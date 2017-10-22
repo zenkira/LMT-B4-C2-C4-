@@ -1,0 +1,9 @@
+C:\Users\Home\Documents\Visual Studio 2015\Projects\TH-B4\Client\bin\Debug\Client.exe.config
+C:\Users\Home\Documents\Visual Studio 2015\Projects\TH-B4\Client\bin\Debug\Client.exe
+C:\Users\Home\Documents\Visual Studio 2015\Projects\TH-B4\Client\bin\Debug\Client.pdb
+C:\Users\Home\Documents\Visual Studio 2015\Projects\TH-B4\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
+C:\Users\Home\Documents\Visual Studio 2015\Projects\TH-B4\Client\obj\Debug\Client.Form1.resources
+C:\Users\Home\Documents\Visual Studio 2015\Projects\TH-B4\Client\obj\Debug\Client.Properties.Resources.resources
+C:\Users\Home\Documents\Visual Studio 2015\Projects\TH-B4\Client\obj\Debug\Client.csproj.GenerateResource.Cache
+C:\Users\Home\Documents\Visual Studio 2015\Projects\TH-B4\Client\obj\Debug\Client.exe
+C:\Users\Home\Documents\Visual Studio 2015\Projects\TH-B4\Client\obj\Debug\Client.pdb
